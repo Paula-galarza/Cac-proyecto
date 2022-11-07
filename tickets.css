@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.div1 {
+    background-color: rgb(68, 66, 66);
+    height: 70px;
+}
+
+
+#tlogo{
+    color:white;
+    margin-right: 95px;
+    margin-left: -350px;
+    padding-right: -90px;
+    font-size: 21px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+#navbarNavAltMarkup{
+    margin-right: 35px;
+}
+
+
+.justify-content-end{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.active{
+    color: white;
+}
+
+.ticket1{
+    width: 199px; 
+    text-align: center; 
+    border-radius: 2px; 
+    border-color: blue;
+    margin-top: 25px;
+    margin-left: 365px;
+}
+
+.ticket2{
+    width: 199px; 
+    text-align: center; 
+    border-radius: 2px; 
+    border-color: royalblue;
+    margin-left: 570px;
+    margin-top: -186px;
+}
+
+.ticket3{
+    width: 199px; 
+    text-align: center; 
+    border-radius: 2px; 
+    border-color: orange;
+    margin-left: 775px;
+    margin-top: -186px;
+}
+
+.totalaPagar{
+    color: rgb(56, 94, 192);
+    background-color: rgba(109, 208, 231, 0.474); 
+    border-color: rgba(67, 121, 146, 0.673); 
+    width: 612px; 
+    margin-left: 364px ; 
+    margin-top: 29px ;
+    border-radius: 5px; 
+    height: 50px;
+    
+    }
+
+
+footer{
+    background-color: rgb(27, 62, 84);
+    height: 80px;
+    margin-top: 20px;
+    padding-top: 15px;
+    
+}
+
+#total{
+    margin-left: 365px; 
+    margin-top: 27px; 
+    padding-top: 10px; 
+    padding-left:20px; 
+    background-color: rgba(170, 224, 244, 0.847); 
+    color: rgb(47, 80, 115); 
+    width: 610px; 
+    height: 50px; 
+    border-radius: 5px;
+}
+
+#borrar{
+    background-color: rgba(140, 214, 54, 0.9) ; 
+    width: 310px; 
+    margin-top: 10px; 
+    margin-left: 364px; 
+    font-size: 18px;
+    color: white;
+}
+
+#botonResumen{
+    background-color:  rgba(140, 214, 54, 0.9) ; 
+    width: 290px; 
+    margin-left: 685px; 
+    margin-top: -70px; 
+    font-size: 18px; 
+    color: white;
+}

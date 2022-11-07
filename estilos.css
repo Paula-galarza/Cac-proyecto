@@ -1,0 +1,155 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.div1 {
+    background-color: rgb(68, 66, 66);
+    height: 70px;
+}
+
+
+#titulo{
+    color:white;
+    margin-right: 95px;
+    margin-left: -150px;
+    padding-right: 90px;
+    font-size: 21px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+#navbarNavAltMarkup{
+    margin-right: 35px;
+}
+
+
+.justify-content-end{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.active{
+    color: white;
+}
+
+
+.container-fluid{
+    margin-left: 50px;
+}
+
+    
+
+
+.carousel-caption{
+    padding-left: 10%;
+}
+
+.container-text{
+    padding-left: 100px;
+   
+}
+
+.t1{
+    text-align: right; 
+    font-size: 33px;
+       
+}
+
+.texto{
+    text-align: right;
+    font-size: 18px;
+   
+    
+}
+
+#boton-formulario{
+    margin-left: 290px; 
+    width: 770px; 
+    font-size: 20px;
+    color: white;
+    
+}
+
+.card-group{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 130px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.card{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btncards{
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+
+.btn-javascript{
+    background-color: rgb(234, 191, 36);
+    color:black;
+    font-size: 12px;
+    border-color:transparent;
+    
+    
+}
+
+.btn-react{
+    background-color: rgb(45, 177, 192);
+    color:white;
+    font-size: 12px;
+    border-color:transparent;
+}
+
+.btn-negocios{
+    background-color: rgb(122, 122, 120);
+    color:white;
+    font-size: 12px;
+    border-color:transparent;
+}
+
+.btn-startups{
+    background-color: rgb(216, 19, 26);
+    color:white;
+    font-size: 12px;
+    border-color:transparent;
+}
+
+.t-oradores{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn-conocemas{
+    background-color: transparent; 
+    border-color:white; 
+    margin-left: 698px; 
+    margin-top: -330px; 
+    margin-right: -15px;
+}
+
+
+#floatingTextarea{
+    margin-left: 100px; 
+    width: 84vw; 
+    margin-top: 20px
+}
+
+#exampleFormControlInput1{
+    width: 25%;
+    
+}
+
+footer{
+    background-color: rgb(27, 62, 84);
+    height: 80px;
+    margin-top: 20px;
+    padding-top: 15px;
+    
+}
